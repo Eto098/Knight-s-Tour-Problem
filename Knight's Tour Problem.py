@@ -1,13 +1,3 @@
-##########################################
-## Project: Knight's Tour
-##
-## Authors: Etem Kosencig \ 170201004
-##          Meliksah Cetinkaya \ 150201035
-##
-## Date: Jan 05, 2020
-##########################################
-
-
 # Possible movements in Knight's coordinates
 # In y coordinate, moves are multiplied by -1 because of the structure
 # of the 2D array
